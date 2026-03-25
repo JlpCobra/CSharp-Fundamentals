@@ -1,4 +1,4 @@
-# Student Data Processor (C-Sharp C#)
+# C# Practice Exercises (C-Sharp C#)
 
 ## Description
 This application reads student data from a file and displays it in a formatted way.
