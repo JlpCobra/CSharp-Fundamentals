@@ -1,44 +1,27 @@
+# Patient Record Searcher (C#)
 
 ## Description
-This repository contains a collection of C# programming exercises and projects completed as part of my coursework using the Cengage learning platform.
+This application reads patient data from a text file and allows searching or processing of records.
 
-The work in this repository covers core programming fundamentals and problem-solving techniques, with a focus on building a strong foundation in C# and .NET development.
-
----
-
-## Topics Covered
-- Variables, conditionals, and loops
-- Methods and basic program structure
-- Object-oriented programming (classes, objects)
-- File input/output (reading and writing files)
-- Data processing and formatting
-- Basic debugging and error handling
-
----
-
-## Structure
-The repository is organized by chapters, with each folder containing exercises and projects related to specific topics.
-
-Example:
-- `chapter1/` → Introductory exercises
-- `chapter5/` → File handling and data processing
-- `chapter10/` → More advanced concepts
-
----
+## Features
+- Reads patient data from a file
+- Processes structured data (ID, name, amount)
+- Displays formatted output
 
 ## Technologies Used
 - C#
 - .NET
-- Visual Studio
+- File I/O
 
----
+## Example Data
+222, Anderson, 2000  
+390, Bell, 2500  
+488, Carter, 1000  
 
-## Purpose
-The goal of this repository is to demonstrate:
-- Consistent hands-on coding practice
-- Understanding of core programming concepts
-- Progression from basic to more advanced topics
-
+## What I Learned
+- File reading and parsing
+- Working with structured data
+- String manipulation and loops
 ---
 
 ## Note
